@@ -1,6 +1,3 @@
-# atividadeescoba
+#Atividade da branch
 
-
-
-
-Vinho é ruim e samba é chato
+"É melhor ter paz do que estar certo"
